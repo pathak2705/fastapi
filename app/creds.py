@@ -1,2 +1,0 @@
-mongodb_uri = 'mongodb://dbUser:df2etJtRKgpmMSdk@cluster0-shard-00-00.thd2u.mongodb.net:27017,cluster0-shard-00-01.thd2u.mongodb.net:27017,cluster0-shard-00-02.thd2u.mongodb.net:27017/emaily-prod?ssl=true&replicaSet=atlas-umiir7-shard-0&authSource=admin&retryWrites=true&w=majority'
-port = 8000
